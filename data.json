@@ -1,0 +1,25 @@
+{
+    "posts": [
+        {
+            "id": "P0001",
+            "title": "A great story never told",
+            "summary": "It was cold December morning, as I sat on my bed porch I decided today was the day",
+            "author": "James Reddy in story in Storytime",
+            "storyTime": "23 minute read"
+        },
+        {
+            "id": "P0002",
+            "title": "Building, Hacking, Creating",
+            "summary": "It is better to start from scratch than build on someone elses work. My thoughts. ",
+            "author": "Mad Hacker in Easy living",
+            "storyTime": "9 minute read"
+        },
+        {
+            "id": "P0003",
+            "title": "Ten reasons why you should travel",
+            "summary": "About time for your next adventure",
+            "author": "Sara Smith in adventure",
+            "storyTime": "5 minute read"
+        }
+    ]
+}
